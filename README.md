@@ -1,1 +1,1 @@
-Simple Coffee Listing Project
+Simple Coffee Listing Project using React
