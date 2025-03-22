@@ -1,1 +1,1 @@
-Simple Coffee Listing
+Simple Coffee Listing Project
